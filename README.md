@@ -30,7 +30,7 @@
 <br />
 <br />
 
-[![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sami-coder&hide=stars&show_icons=true)](https://github.com/sami-coder/github-readme-stats)
+[![Sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumit-kawale&hide=stars&show_icons=true)](https://github.com/sumit-kawale/github-readme-stats)
 ---
 
 
