@@ -19,15 +19,15 @@
 
 <img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" >
 
-<img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />
+<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 
 <img align="left" alt="Py Charm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pycharm.svg" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" >
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" >
 
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" >
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
