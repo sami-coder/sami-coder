@@ -5,7 +5,7 @@
 - 🔭 I’m currently studying in University of North Carolina Charlotte for my Masters Degree!
 - 🌱 I’m currently learning everything 
 - 👯 I’m actively seeking for Software Developer job 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
